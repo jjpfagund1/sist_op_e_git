@@ -1,0 +1,22 @@
+.cinco {
+    font-family: "Arima", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 500;
+     font-style: normal;
+}
+.seis {
+    font-family: "Arima", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 600;
+     font-style: normal;
+}
+.sete {
+    font-family: "Arima", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 700;
+     font-style: normal;
+}
+
+span {
+    font-weight: 700;
+}
